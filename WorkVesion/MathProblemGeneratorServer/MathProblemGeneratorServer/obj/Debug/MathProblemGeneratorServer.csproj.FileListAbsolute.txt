@@ -1,0 +1,14 @@
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\bin\Debug\MathProblemGeneratorServer.exe.config
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\bin\Debug\MathProblemGeneratorServer.exe
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\bin\Debug\MathProblemGeneratorServer.pdb
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\obj\Debug\MathProblemGeneratorServer.csprojAssemblyReference.cache
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\obj\Debug\MathProblemGeneratorServer.csproj.CoreCompileInputs.cache
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\obj\Debug\MathProblemGeneratorServer.exe
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\obj\Debug\MathProblemGeneratorServer.pdb
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\obj\Debug\MathProblemGeneratorServer.csproj.CopyComplete
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\bin\Debug\System.ValueTuple.dll
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\bin\Debug\System.ValueTuple.xml
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\bin\Debug\itextsharp.dll
+C:\Users\dima\source\repos\MathProblemGeneratorServer\MathProblemGeneratorServer\bin\Debug\itextsharp.xml
